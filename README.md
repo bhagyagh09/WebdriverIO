@@ -1,2 +1,2 @@
 # WebdriverIO
-Test Case using Mocha, Chai, WebdriverIO
+Test Case using Mocha, Chai and WebdriverIO
